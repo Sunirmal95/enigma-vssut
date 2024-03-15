@@ -1,0 +1,11 @@
+touch sunirmal.txt
+touch commands.txt
+nano sunirmal.txt
+nano commands.txt
+git add .
+git commit -m "Initial Change"
+git remote add origin
+git push origin master
+git status
+git log
+clear
